@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMR_LISTENER", "EMR_LISTENER\EMR_LISTENER.csproj", "{74E14BF5-77A3-4B31-A875-85E8CE3F692D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		EMR_LISTENER|x86 = EMR_LISTENER|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74E14BF5-77A3-4B31-A875-85E8CE3F692D}.Debug|x86.ActiveCfg = Debug|x86
+		{74E14BF5-77A3-4B31-A875-85E8CE3F692D}.Debug|x86.Build.0 = Debug|x86
+		{74E14BF5-77A3-4B31-A875-85E8CE3F692D}.EMR_LISTENER|x86.ActiveCfg = EMR_LISTENER|x86
+		{74E14BF5-77A3-4B31-A875-85E8CE3F692D}.EMR_LISTENER|x86.Build.0 = EMR_LISTENER|x86
+		{74E14BF5-77A3-4B31-A875-85E8CE3F692D}.Release|x86.ActiveCfg = Release|x86
+		{74E14BF5-77A3-4B31-A875-85E8CE3F692D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
